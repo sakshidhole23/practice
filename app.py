@@ -13,5 +13,5 @@ def add(a, b):
 
 
 
-def sub(a, c):
-    return a - c
+def sub(a, d):
+    return a - d
